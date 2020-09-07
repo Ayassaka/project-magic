@@ -30,7 +30,6 @@ github_username:  Ayassaka
 
 name: Project Magic
 pygments: true
-baseurl: /project-magic
 
 # Build settings
 theme: minima
